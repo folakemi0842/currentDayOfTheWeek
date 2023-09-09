@@ -1,0 +1,2 @@
+# currentDayOfTheWeek
+Saturday 
